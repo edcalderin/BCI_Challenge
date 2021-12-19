@@ -1,0 +1,4 @@
+name: bci_env
+channels:
+  - defaults
+prefix: C:\Users\Erick\anaconda3\envs\bci_env
