@@ -1,2 +1,7 @@
-data/ filter=lfs diff=lfs merge=lfs -text
-preprocessing_objects/ filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+iterativeImputer.pkl filter=lfs diff=lfs merge=lfs -text
+X_train_preprocessed.csv filter=lfs diff=lfs merge=lfs -text
+=======
+preprocessing_objects/iterativeImputer.pkl filter=lfs diff=lfs merge=lfs -text
+data/preprocessed/X_train_preprocessed.csv filter=lfs diff=lfs merge=lfs -text
+>>>>>>> parent of 9b18c41 (deleted large files again)
